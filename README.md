@@ -1,1 +1,1 @@
-# SREE
+# website for the college
